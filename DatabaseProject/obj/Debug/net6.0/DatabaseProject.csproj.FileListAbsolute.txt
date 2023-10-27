@@ -1,0 +1,12 @@
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+D:\Mansi\MVC\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+D:\Mansi\MVC\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+D:\Mansi\MVC\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+D:\Mansi\MVC\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll
